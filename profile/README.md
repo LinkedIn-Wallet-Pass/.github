@@ -4,11 +4,14 @@
 
 [LinkedInWallet](https://linkedinwallet.com) makes exchanging LinkedIn profiles at conferences, meetups, and networking events faster. Create a digital networking pass, add it to Apple Wallet or Google Wallet, and share your profile with a quick QR scan—without having to navigate through the LinkedIn app.
 
+<img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/eeeaade5-cef2-4651-b033-b1d2a2fb1dee" />
+
+
 ### How it works
 
 1. Enter your name, LinkedIn profile, and a short bio at [linkedinwallet.com](https://linkedinwallet.com).
 2. Generate your pass and add it to your phone's wallet.
-3. Pull up the QR code to share your LinkedIn profile in person.
+3. Pull up the Wallet Pass to share your LinkedIn profile in person.
 
 ### Event Mode
 
